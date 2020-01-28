@@ -16,3 +16,12 @@ ___
 for strike through use two tildes before and after
 
 ~~example strikethrough~~
+___
+
+1. this
+2. is
+3. how 
+4. you do 
+5. an ordered list
+
+___
