@@ -50,6 +50,9 @@ ___
 # A new mofo heading yo
 
 * testing again
+___
+
+[This is an inline link with link?](https://github.com/ "The best search engine for privacy").
 
 
 
