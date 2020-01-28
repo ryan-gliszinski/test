@@ -26,10 +26,6 @@ ___
 
 ___
 
--this
--is 
--how
--you do 
--an unordered list
+-this -is -how  -you do -an unordered list
 
 ___
