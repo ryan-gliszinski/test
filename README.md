@@ -57,7 +57,7 @@ ___
 [this is a relative link](/README.md "README file")
 ___
 
-![Hello there!](https://i.redd.it/qj2fbx8tudi31.jpg)
+![Hello there!] (https://i.redd.it/qj2fbx8tudi31.jpg)
 
 
 
