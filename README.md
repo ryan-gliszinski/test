@@ -43,11 +43,11 @@ ___
 ___
 
 * testing out a block quote
-  > a block quote yo
+  > a block quote y'all
 * testing out a block quote
 ___
 
-# A new mofo heading yo
+# A new heading
 
 * testing again
 ___
@@ -57,7 +57,7 @@ ___
 [this is a relative link](/README.md "README file")
 ___
 
-![The gates of heaven opening up!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+![Hello there!]("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiWk4Pwn6XnAhVSKqwKHQiVB7UQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPrequelMemes%2Fcomments%2Fcusbqg%2Fwhen_obiwan_says_hello_there_grievous_replies%2F&psig=AOvVaw0PDAi3Om2wiNPxgNny3zzM&ust=1580264962677980")
 
 
 
