@@ -60,7 +60,22 @@ ___
 ![Hello there!](https://i.redd.it/qj2fbx8tudi31.jpg "hello there")
 ___
 
+below is a test to print out java code
 
+___
+
+```java
+System.out.println("This is just a test, do not panic!")
+
+for(i=0; i<=100; i++){
+  System.out.print("Yup");
+  }
+  
+  public static void main (String[] args){
+  System.out.print("Another test");
+  }
+
+```
 
 
 
