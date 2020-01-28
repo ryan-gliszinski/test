@@ -87,6 +87,9 @@ for(i=0; i<=100; i++){
 
 > November 19, 1863
 
+- [x] check box!
+- [ ] empty check box
+- [ ] empty check box
 
 
 
