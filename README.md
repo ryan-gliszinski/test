@@ -55,6 +55,9 @@ ___
 [This is an inline link](https://github.com/ "The best search engine for privacy").
 
 [this is a relative link](/README.md "README file")
+___
+
+![The gates of heaven opening up!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 
 
 
