@@ -4,3 +4,15 @@
 
 this is a horizontal rule (use underscores)
 ___
+
+for italics, use preceding and trailing underscores 
+_for example_
+
+___
+for bold use 2 underscores before and after 
+
+__bold example__
+___
+for strike through use two tildes before and after
+
+~~example strikethrough~~
