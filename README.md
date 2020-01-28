@@ -91,6 +91,9 @@ for(i=0; i<=100; i++){
 - [ ] empty check box
 - [ ] empty check box
 
+___
 
+|   Tables      |   Are   |   Nifty   |  
+| -----------   |  :----: | --------: |
 
 
